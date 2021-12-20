@@ -1,0 +1,27 @@
+.options-container
+{
+    display: flex;
+    background-color: rgb(230,230,230);
+    margin-top: 10px;
+    padding: 10px;
+    max-width: 550px;
+    /*justify-content: space-between;*/
+    justify-content: space-evenly;
+    border-radius: 8px;
+}
+
+.reimb-container
+{
+    display: flex;
+    background-color: rgb(230,230,230);
+    /*background-color: rgb(128, 125, 125);*/
+    box-shadow: 3px 3px 8px rgb(130,130,130);
+    margin-top: 40px;
+    padding: 40px;
+    width: 400px;
+    height:330px;
+    border-radius: 8px;
+    flex-direction: column;
+    color: black;
+    justify-content: space-evenly;
+}
