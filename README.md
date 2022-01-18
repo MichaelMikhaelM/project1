@@ -28,6 +28,6 @@ The Expense Reimbursement App will manage the process of reimbursing employees f
 <li>Apache Maven - version 3.8.4.</li>
 </ul>
 
-To use the application:
+To use the application
 download the repository:`git clone https://github.com/MichaelMikhaelM/project1`.
 Go to the downloaded repository directory and run the command `mvn clean install`.
