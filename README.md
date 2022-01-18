@@ -31,3 +31,7 @@ The Expense Reimbursement App will manage the process of reimbursing employees f
 To use the application
 download the repository:`git clone https://github.com/MichaelMikhaelM/project1`.
 Go to the downloaded repository directory and run the command `mvn clean install`.
+
+<h2>Usage</h2>
+Input your credentials to login, once logged in you will be redirected to your homepage depending on your role, if you are an employee you can view your past reimbursements by clicking on "View Reimbursements" button, to submitt a new reimbursement click on "Create Reimbursement" button. If you are a finance manager click on "Manage Reimbursements" to view all the reimbursements, you can also filter the reimbursements by thier status.
+
